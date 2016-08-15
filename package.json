@@ -1,0 +1,29 @@
+{
+  "name": "open-in-openscad",
+  "version": "0.6.0",
+  "description": "Adds a command to open the currently selected file in openSCAD",
+  "main": "./lib/open-in-openscad",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcnate/open-in-openscad.git"
+  },
+  "keywords": [
+    "scad",
+    "openscad"
+  ],
+  "author": "Nathan Baker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/pcnate/open-in-openscad/issues"
+  },
+  "homepage": "https://github.com/pcnate/open-in-openscad#readme",
+  "dependencies": {
+    "pty.js": "https://github.com/chjj/pty.js/archive/master.tar.gz"
+  }
+}
