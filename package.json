@@ -1,6 +1,6 @@
 {
   "name": "open-in-openscad",
-  "version": "0.6.0",
+  "version": "0.0.0",
   "description": "Adds a command to open the currently selected file in openSCAD",
   "main": "./lib/open-in-openscad",
   "scripts": {
